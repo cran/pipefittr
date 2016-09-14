@@ -1,0 +1,17 @@
+27e83bdd8ded0f92e7b149f437d02808 *DESCRIPTION
+6698f66f8fbc93997d0b0dd1642efde7 *LICENSE
+80b055539f93690ebde1bf013671c23d *NAMESPACE
+f2183d0cdd6901c5e2a14eca04e9bfdc *R/multilinepipefittr.r
+9e5ea936cc1dfc82eeff2cad0590154c *R/pipefittr.R
+fb79fcff69aba573b1f3d058ebd1a2b3 *R/pipefittrAddin.R
+d583eae811c9dc1c24ff6c309314a026 *R/utils.R
+cb4806f15892f5791abd33d02ba26580 *README.md
+4461b387d3bfcbacf5fcb8615aca102c *inst/rstudio/addins.dcf
+d49904826c08ce3150391f2527448d0f *man/make_list.Rd
+12e7773b773b324d9834f74baafd2321 *man/make_output.Rd
+5e6abf72317c909f61583e320c376480 *man/pipefittr.Rd
+74520e239f17f1f2d86d3fe47f37a209 *man/splitlisttodf.Rd
+8cadf8b17014d0d725fc9d6b47f4b50f *man/splitmultistrtolist.Rd
+594b17bd9798017a664c616f095ea9ed *tests/testthat.R
+8f46dac6e3b14931deb298afedd44313 *tests/testthat/test-nested.R
+ea2dcbfd7e99746763387dc096daa3fd *tests/testthat/test-pipefittr.r
